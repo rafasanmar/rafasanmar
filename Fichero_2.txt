@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificación rama error
+=======
+Ejercicio 2 portada
+>>>>>>> portada
